@@ -1,5 +1,5 @@
-#Mood Tunes UI
+# food_link
  
-UI for Mood Tunes <br>
+Innovative app to reduce food waste by serving as a platform to publish when you have leftover food or ingredients which can be picked up food banks. <br>
 <br>
 In Devolopment.
